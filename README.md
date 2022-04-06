@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @coder-supratim. Also go by Super Tim :D 
-- 👀 I’m interested in java programming, cloud computing and comupter gaming
-- 🌱 I’m currently learning Google Cloud Platform and AI/ML
-- 💞️ I’m looking to collaborate and contribute in opensource software projects and communities 
+- 👋 Hi, I’m @coder-supratim. Also go by Super Tim 😆  
+- 👀 I’m interested in java programming, cloud computing and comupter gaming 👽
+- 🌱 I’m currently learning Google Cloud Platform and AI/ML 💥
+- 💞️ I’m looking to collaborate and contribute in opensource software projects and communities 🔥
 - 📫 You can email me @tim.june85@gmail.com
 
 <!---
