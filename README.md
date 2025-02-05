@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @coder-supratim. Also go by Super Tim 😆  
-- 👀 I’m interested in java programming, cloud computing and comupter gaming 👽
-- 🌱 I’m currently learning Google Cloud Platform and AI/ML 💥
+- 👋 Hi, I’m @coder-supratim. I also go by Tim 😆  
+- 👀 I’m interested in computer programming, cloud computing and console gaming 👽
+- 🌱 I’m a Gen AI enthusiast 💥
 - 💞️ I’m looking to collaborate and contribute in opensource software projects and communities 🔥
-- 📫 You can email me @tim.june85@gmail.com
+- 📫 Please reach out to me @tim.june85@gmail.com
 
 <!---
 coder-supratim/coder-supratim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
